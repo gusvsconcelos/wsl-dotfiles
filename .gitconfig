@@ -1,0 +1,5 @@
+[user]
+	name = Gustavo Vasconcelos
+	email = 136681497+gusvsconcelos@users.noreply.github.com
+[credential]
+	helper = /mnt/c/Program\\ Files/Git/mingw64/bin/git-credential-manager.exe
